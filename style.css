@@ -8,14 +8,14 @@
 /* estiliza o corpo geral da página */
 body {
     font-family: Arial, sans-serif; /* define a fonte principal do site */
-    background-color: #f0f4f8; /* define a cor de fundo da página */
-    color: #333333; /* define a cor padrão dos textos */
+    background-color: #f9f5f5; /* define a cor de fundo da página */
+    color: #0a0a0a; /* define a cor padrão dos textos */
 }
 
 /* estiliza o cabeçalho */
 header {
-    background-color: #2b6cb0; /* define a cor de fundo do cabeçalho */
-    color: white; /* define a cor do texto do cabeçalho */
+    background-color: #4cd3e8; /* define a cor de fundo do cabeçalho */
+    color: rgb(250, 246, 246); /* define a cor do texto do cabeçalho */
     text-align: center; /* centraliza o texto dentro do cabeçalho */
     padding: 30px; /* adiciona espaçamento interno em todos os lados */
 }
@@ -29,7 +29,7 @@ main {
 
 /* estiliza o card principal de apresentação */
 .apresentacao {
-    background-color: white; /* define fundo branco para o card */
+    background-color: rgb(4, 4, 4); /* define fundo branco para o card */
     text-align: center; /* centraliza os textos e elementos internos */
     padding: 30px; /* adiciona espaço interno no card */
     border-radius: 10px; /* arredonda os cantos do card */
@@ -59,7 +59,7 @@ main {
 
 /* estiliza todos os botões da página */
 button {
-    background-color: #2b6cb0; /* define a cor de fundo do botão */
+    background-color: #2bb0ae; /* define a cor de fundo do botão */
     color: white; /* define a cor do texto do botão */
     border: none; /* remove a borda padrão */
     padding: 12px 18px; /* adiciona espaçamento interno no botão */
@@ -94,7 +94,7 @@ button:hover {
 .informacoes h2 {
     margin-top: 15px; /* adiciona espaço acima do subtítulo */
     margin-bottom: 10px; /* adiciona espaço abaixo do subtítulo */
-    color: #2b6cb0; /* define cor azul para os subtítulos */
+    color: hsl(177, 80%, 52%); /* define cor azul para os subtítulos */
 }
 
 /* estiliza a lista da seção de informações */
