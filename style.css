@@ -29,7 +29,7 @@ main {
 
 /* estiliza o card principal de apresentação */
 .apresentacao {
-    background-color: rgb(4, 4, 4); /* define fundo branco para o card */
+    background-color: rgb(88, 214, 202); /* define fundo branco para o card */
     text-align: center; /* centraliza os textos e elementos internos */
     padding: 30px; /* adiciona espaço interno no card */
     border-radius: 10px; /* arredonda os cantos do card */
